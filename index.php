@@ -288,6 +288,45 @@ $successMessage = isset($_GET['success']) && $_GET['success'] === '1'
 
         </div>
 
+        <div class="ai-skills-heading">
+            <h3>AI &amp; Development Tools</h3>
+            <p>Using AI thoughtfully to build, debug, and improve software.</p>
+        </div>
+
+        <div class="skills-grid ai-skills-grid">
+
+            <div class="skill-card">
+                <div class="skill-icon">AI</div>
+                <h3>AI-Assisted Development</h3>
+                <p>Using AI tools to support coding and development workflows.</p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">PE</div>
+                <h3>Prompt Engineering</h3>
+                <p>Writing clear prompts for reliable software development results.</p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">DB</div>
+                <h3>AI-Assisted Debugging</h3>
+                <p>Analyzing errors and exploring practical solutions with AI support.</p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">WP</div>
+                <h3>Development Productivity</h3>
+                <p>Using AI tools to improve planning, research, and delivery speed.</p>
+            </div>
+
+            <div class="skill-card">
+                <div class="skill-icon">API</div>
+                <h3>AI API Integration</h3>
+                <p>Experimenting with AI APIs and connecting intelligent features to applications.</p>
+            </div>
+
+        </div>
+
     </div>
 
 </section>

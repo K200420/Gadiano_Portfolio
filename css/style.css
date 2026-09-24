@@ -514,6 +514,25 @@ nav a:hover::after {
     color: var(--muted);
 }
 
+.ai-skills-heading {
+    text-align: center;
+    margin: 72px auto 28px;
+}
+
+.ai-skills-heading h3 {
+    color: var(--primary);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    margin-bottom: 8px;
+}
+
+.ai-skills-heading p {
+    color: var(--muted);
+}
+
+.ai-skills-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
 
 /* =========================
    PROJECTS
